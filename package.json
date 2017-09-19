@@ -6,12 +6,26 @@
   "scripts": {
     "test": "./test.js"
   },
+  "homepage": "https://github.com/ghostflame/ministry-client-js",
+  "bugs": {
+    "url": "https://github.com/ghostflame/ministry-client-js/issues"
+  },
   "keywords": [
     "ministry",
     "statistics",
     "statsd",
     "client"
   ],
+  "files": [
+    "test.js"
+  ],
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostflame/ministry-client-js.git"
+  },
   "author": "John Denholm",
-  "license": "ISC"
+  "license": "Apache-2.0"
 }
