@@ -1,0 +1,17 @@
+{
+  "name": "ministry-client",
+  "version": "0.0.1",
+  "description": "A simple nodejs client for ministry statistics server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "keywords": [
+    "ministry",
+    "statistics",
+    "statsd",
+    "client"
+  ],
+  "author": "John Denholm",
+  "license": "ISC"
+}
